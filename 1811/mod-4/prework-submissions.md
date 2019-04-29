@@ -76,9 +76,9 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 ## Kimberly Myers
 
-* [Node Server Tutorial]()
-* [Annotated Express server file]()
-* [Promise Practice Exercises]()
+* [Node Server Tutorial](https://github.com/kimmichurri/km-node-server-prework)
+* [Annotated Express server file](https://github.com/kimmichurri/notez-api/blob/server-file-annotations-km/app.js)
+* [Promise Practice Exercises](https://repl.it/@KimberlyAchkio/Kim-Myers-Promises-pre-work)
 
 ## Mason France
 
